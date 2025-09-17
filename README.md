@@ -36,6 +36,8 @@ Now I’m basically a **one-man product team**:
 - 🔒 Classified, but 100% legal 😇  
 - 🖨️ Voron rebuild (with upgrades, of course).  
 - 🧑‍🔬 Whatever else I break and then fix.  
+- 🔴 **[YT-Subscriber-Counter-Enhanced](https://github.com/AdamDeBeers/ESP32-projects/tree/main/YT-Subscriber-Counter-Enhanced)**  
+  ESPHome project to show live YouTube subscribers on an LED matrix.  
 
 ---
 
