@@ -10,7 +10,6 @@
 ![ESPHome](https://img.shields.io/badge/ESPHome-blue?logo=esphome&logoColor=white)  
 ![Proxmox](https://img.shields.io/badge/Proxmox-black?logo=proxmox&logoColor=E57000)  
 ![Full-Stack Maker](https://img.shields.io/badge/Full--Stack-Maker-green)  
-![H2D Printing](https://img.shields.io/badge/H2D-Printing-purple)  
 
 ---
 
@@ -48,6 +47,7 @@ Now I’m basically a **one-man product team**:
 - I don’t let the smoke out of my components anymore… usually.  
 - Every repo starts private until I stop being shy.  
 - I call myself a “Full-Stack Maker” because it sounds cooler than “Guy who can’t pick one hobby.”  
+- **H2D** is my maker identity — not just a printer, it’s part of my story.  
 
 ---
 
