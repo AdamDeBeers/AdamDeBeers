@@ -1,9 +1,13 @@
 # Hey, I'm Adam 👋  
 
+*You got my attention: if it makes noise, blinks, or prints in plastic — I’m in.*  
+
+**3D Printing Expert · Software + Hardware + Product Developer**  
+
 ![Profile views](https://komarev.com/ghpvc/?username=AdamDeBeers&label=Profile%20views)  
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@AdamDeBeers)  
+![3D Printing Expert](https://img.shields.io/badge/3D%20Printing-Expert-orange?logo=3dprint&logoColor=white)  
 ![ESPHome](https://img.shields.io/badge/ESPHome-blue?logo=esphome&logoColor=white)  
-![3D Printing](https://img.shields.io/badge/3D%20Printing-orange?logo=3dprint&logoColor=white)  
 ![Proxmox](https://img.shields.io/badge/Proxmox-black?logo=proxmox&logoColor=E57000)  
 ![Full-Stack Maker](https://img.shields.io/badge/Full--Stack-Maker-green)  
 ![H2D Printing](https://img.shields.io/badge/H2D-Printing-purple)  
@@ -49,6 +53,5 @@ Now I’m basically a **one-man product team**:
 
 ## 🚀 Mission
 Build cool things. Learn along the way.  
-If it makes noise, blinks, or prints in plastic — I’m in.  
 Did you say I can print with your metal 3D printer and you will pay me for that?  
 You call that a job? I am in!  
